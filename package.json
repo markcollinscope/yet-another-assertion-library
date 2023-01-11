@@ -2,7 +2,7 @@
   "type": "module",
   "name": "ass-mcc",
   "description": "## ass.js -- assertion library -- ass.ok, ass.okString, ass.okFunction ass.okImplies ...  * supports checking custom js 'enums'. * support registration and checking of js 'types'. * set underlying assertion function if you wish, for compatibility purposes.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "ass.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,8 @@
   "keywords": [
     "assert",
     "library",
-    "javascript"
+    "javascript",
+	"typescript"
   ],
   "author": "mark collins-cope",
   "license": "MIT",

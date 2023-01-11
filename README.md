@@ -5,4 +5,3 @@
 * support registration and checking of js 'types'.
 * set underlying assertion function if you wish, for compatibility purposes.
 
-
